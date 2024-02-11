@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/bItJt.gif)
+![rickroll](https://github.com/ilobilo/ilobilo/assets/68286835/ed409f22-bfd6-460f-a8c3-80a07064bbc0)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilobilo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilobilo&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
